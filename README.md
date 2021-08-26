@@ -1,4 +1,6 @@
-# musicapp
+## Preview
+
+<img src="https://github.com/emrezeytun/music-app-VueJS/blob/main/gif_music_app.gif">
 
 ## Project setup
 ```
